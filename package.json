@@ -1,7 +1,7 @@
 {
   "name": "quilljs_nwjs",
   "version": "1.0.0",
-  "description": "trial of mediumjs with nwjs",
+  "description": "trial of quilljs with nwjs",
   "main": "index.html",
   "window": {
     "title": "quilljs nwjs",
