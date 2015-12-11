@@ -1,0 +1,21 @@
+{
+  "name": "quilljs_nwjs",
+  "description": "trial of quilljs with nwjs",
+  "main": "index.html",
+  "authors": [
+    "Yosuke Yasuda"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/double-y/quilljs_nwjs",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "quill": "~0.20.1"
+  }
+}
